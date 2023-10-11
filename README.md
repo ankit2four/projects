@@ -30,8 +30,9 @@ cd projects/Volume\ &\ Brightness\ Control\ Using\ Hand\ gesture
 python main.py
 ```
 ## Wroking
--Launch the application, and it will utilize your computer's camera to detect your hand.
--Control brightness and volume through hand gestures:
--To control brightness, adjust the distance between your thumb and index finger.
--To control volume, use your thumb and little finger in a similar manner.
+- Launch the application, and it will utilize your computer's camera to detect your hand.
+- Control brightness and volume through hand gestures:
+- To control brightness, adjust the distance between your thumb and index finger.
+- To control volume, use your thumb and little finger in a similar manner.
+  
 Enjoy the intuitive experience of controlling brightness and volume with your hand gestures!
