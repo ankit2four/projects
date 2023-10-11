@@ -1,5 +1,5 @@
 # projects
-# 1Volume and Brightness Controller Using Hand Gesture
+# 1. Volume and Brightness Controller Using Hand Gesture
 
 ## Introduction
 
